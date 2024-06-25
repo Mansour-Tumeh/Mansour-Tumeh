@@ -1,7 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20399
-Fork on GitHub6245
+ 
+ 
 <h1 align="center">Hi 👋, I'm Mansour</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
@@ -36,5 +34,4 @@ Issues
 Pull Requests
 Join Community
 Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+ 
